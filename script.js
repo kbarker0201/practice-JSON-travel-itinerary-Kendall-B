@@ -1,9 +1,11 @@
 const itinerary = {
     "tripName": "Trip to Korea",
-    "name": "Kendall",
-    "contact": {
-        "email": "kbarker0201@gmail.com",
-        "phone": "123-456-7891"
+    "Traveler": {
+        "name": "Kendall",
+        "contact": {
+            "email": "kbarker0201@gmail.com",
+            "phone": "123-456-7891"
+        }
     },
     "firstDestination": {
         "location": "Seoul",
